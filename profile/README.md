@@ -1,5 +1,3 @@
-# yourlostitems
+# yourlostitem
 
-## make by akash
-
-## very cool.
+## :-)
